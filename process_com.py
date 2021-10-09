@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
     out_file = './company_list.txt'
     with open(out_file,'w',encoding='utf-8') as f:
-        logger.info("wrting file...")
+        logger.info("writing file...")
         for company_name in company_set:
             f.write(f"{company_name}\n")
         
