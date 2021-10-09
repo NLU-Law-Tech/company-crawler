@@ -1,4 +1,4 @@
-# 單位清單爬蟲
+# 單位清單爬蟲 [![pre-release](https://github.com/NLU-Law-Tech/unit-crawler/actions/workflows/main.yml/badge.svg)](https://github.com/NLU-Law-Tech/unit-crawler/actions/workflows/main.yml)
 爬取並匯出單位清單(公部門+公司)
 
 ## 匯出檔案
@@ -15,7 +15,7 @@
 - https://data.gov.tw/dataset/44806
 
 ## 資料下載
-準備中
+https://github.com/NLU-Law-Tech/unit-crawler/releases
 
 ## 使用
 ### 安裝套件
