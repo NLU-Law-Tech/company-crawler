@@ -8,7 +8,7 @@
 - https://github.com/ronnywang/twcompany
 - http://ronnywang-twcompany.s3-website-ap-northeast-1.amazonaws.com/files
 
-## 使用
+## 使用
 ### 安裝套件
 ```
 pip install -r requirements
