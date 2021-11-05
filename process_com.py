@@ -104,4 +104,4 @@ if __name__ == "__main__":
                     logger.warning('skip due to company name is null or none')
                     continue
                 
-                print(f"{file} {i}/{len(json_lines)} ({int(i/len(json_lines)*100)}%)",end='\r')
+                # print(f"{file} {i}/{len(json_lines)} ({int(i/len(json_lines)*100)}%)",end='\r')
