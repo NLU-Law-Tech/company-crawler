@@ -5,7 +5,7 @@ on:
     - cron: "0 8 10 * *"
   push:
     branches:
-      - "main"
+      - "csv"
 
 jobs:
   auto-release:
@@ -22,8 +22,9 @@ jobs:
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.ACCESS_TOKEN }}"
-          automatic_release_tag: "latest"
+          automatic_release_tag: "csv-latest"
           prerelease: false
-          title: "Unit List"
+          title: "Company List CSV"
           files: |
-            *_list.txt
+            *_list.csv
+            欄位說明.txt

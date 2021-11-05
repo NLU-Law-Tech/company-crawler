@@ -2,3 +2,5 @@ company_data/
 __py*/
 gov_data/
 *_list.txt
+*_list.csv
+.DS_Store

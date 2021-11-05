@@ -1,0 +1,8 @@
+company_name 公司名稱
+address 地址或所在地
+company_tax_id 統一編號
+company_stats 公司狀態
+company_capital 資本額
+company_setup_date 設立日期
+company_last_stats_change_date 最後變更日期
+is_branch_office 是否為分公司
