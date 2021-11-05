@@ -27,4 +27,4 @@ jobs:
           title: "Company List CSV"
           files: |
             *_list.csv
-            欄位說明.txt
+            csv_readme.txt
